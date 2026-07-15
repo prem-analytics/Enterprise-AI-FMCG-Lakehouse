@@ -6,11 +6,15 @@ __pycache__/
 
 .ipynb_checkpoints
 
-data/bronze/*
-data/silver/*
-data/gold/*
+# Data Lake Layers
+data/bronze/
+data/silver/
+data/gold/
+data/generated/
 
+# Logs
 *.log
 
+# IDE
 .idea/
 .vscode/
