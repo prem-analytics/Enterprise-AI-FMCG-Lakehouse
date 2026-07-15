@@ -1,0 +1,25 @@
+# ==========================================================
+# PROJECT SETTINGS
+# ==========================================================
+
+# Master Data
+CUSTOMER_COUNT = 100_000
+PRODUCT_COUNT = 5_000
+STORE_COUNT = 1_000
+SUPPLIER_COUNT = 250
+FACTORY_COUNT = 10
+WAREHOUSE_COUNT = 100
+EMPLOYEE_COUNT = 5_000
+
+# Transaction Data
+SALES_COUNT = 5_000_000
+INVENTORY_COUNT = 1_000_000
+PURCHASE_ORDER_COUNT = 500_000
+SHIPMENT_COUNT = 500_000
+PRODUCTION_COUNT = 250_000
+MARKETING_COUNT = 10_000
+
+# Output
+OUTPUT_FORMAT = "parquet"
+
+COUNTRY = "India"

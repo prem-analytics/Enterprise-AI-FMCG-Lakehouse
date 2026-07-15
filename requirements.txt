@@ -1,4 +1,9 @@
 pandas
 numpy
+faker
 pyarrow
-python-dotenv
+polars
+duckdb
+clickhouse-connect
+pyspark
+delta-spark
