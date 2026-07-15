@@ -7,7 +7,10 @@ import os
 
 def create_sample(dataframe, folder, filename, rows=100):
 
-    sample = dataframe.head(rows)
+    sample = dataframe.sample(
+        n=min(rows, len(dataframe)),
+        random_state=42
+    )
 
     output_folder = os.path.join(
         "data",

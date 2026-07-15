@@ -1,0 +1,101 @@
+store_id,store_name,store_type,region,state,city,email,phone,status,opening_date
+STORE000522,Family Express,Distributor,South,Karnataka,Hubballi,familyexpress@enterprisefmcg.com,+91 9401376342,Active,2026-07-15
+STORE000738,Daily Foods,Online Fulfillment Center,East,West Bengal,Kolkata,dailyfoods@enterprisefmcg.com,+91 8279998081,Active,2026-07-15
+STORE000741,Prime Express,Online Fulfillment Center,West,Gujarat,Surat,primeexpress@enterprisefmcg.com,+91 8878502649,Active,2026-07-15
+STORE000661,Metro Market,Convenience Store,East,Odisha,Bhubaneswar,metromarket@enterprisefmcg.com,+91 6425145757,Active,2026-07-15
+STORE000412,City Express,Convenience Store,East,West Bengal,Siliguri,cityexpress@enterprisefmcg.com,+91 8723159852,Active,2026-07-15
+STORE000679,Prime Express,Hypermarket,West,Gujarat,Surat,primeexpress@enterprisefmcg.com,+91 6477905342,Active,2026-07-15
+STORE000627,Prime Retail,Supermarket,East,Odisha,Bhubaneswar,primeretail@enterprisefmcg.com,+91 7347255078,Active,2026-07-15
+STORE000514,Fresh Mart,Hypermarket,South,Kerala,Kochi,freshmart@enterprisefmcg.com,+91 7689402762,Active,2026-07-15
+STORE000860,Smart Mart,Supermarket,South,Kerala,Kozhikode,smartmart@enterprisefmcg.com,+91 8876049268,Active,2026-07-15
+STORE000137,Value Store,Convenience Store,West,Gujarat,Surat,valuestore@enterprisefmcg.com,+91 8490887761,Active,2026-07-15
+STORE000812,Value Retail,Supermarket,West,Maharashtra,Mumbai,valueretail@enterprisefmcg.com,+91 7139470491,Active,2026-07-15
+STORE000077,Prime Market,Wholesale Depot,North,Uttar Pradesh,Lucknow,primemarket@enterprisefmcg.com,+91 9817252593,Active,2026-07-15
+STORE000637,Smart Retail,Retail Outlet,East,Odisha,Cuttack,smartretail@enterprisefmcg.com,+91 9937231012,Active,2026-07-15
+STORE000974,Daily Foods,Online Fulfillment Center,North,Delhi,New Delhi,dailyfoods@enterprisefmcg.com,+91 6403198010,Active,2026-07-15
+STORE000939,Smart Foods,Hypermarket,South,Kerala,Thiruvananthapuram,smartfoods@enterprisefmcg.com,+91 8561174281,Active,2026-07-15
+STORE000900,Value Store,Retail Outlet,South,Tamil Nadu,Coimbatore,valuestore@enterprisefmcg.com,+91 9666001565,Active,2026-07-15
+STORE000281,Family Bazaar,Distributor,South,Kerala,Kochi,familybazaar@enterprisefmcg.com,+91 8034129062,Active,2026-07-15
+STORE000884,City Bazaar,Distributor,North,Uttar Pradesh,Lucknow,citybazaar@enterprisefmcg.com,+91 9614958777,Active,2026-07-15
+STORE000762,Value Store,Supermarket,East,Odisha,Bhubaneswar,valuestore@enterprisefmcg.com,+91 7632026112,Active,2026-07-15
+STORE000320,Family Foods,Supermarket,South,Tamil Nadu,Chennai,familyfoods@enterprisefmcg.com,+91 6409142039,Active,2026-07-15
+STORE000550,Family Bazaar,Hypermarket,North,Uttar Pradesh,Kanpur,familybazaar@enterprisefmcg.com,+91 8786123054,Active,2026-07-15
+STORE000175,Value Market,Distributor,North,Delhi,New Delhi,valuemarket@enterprisefmcg.com,+91 8509680412,Active,2026-07-15
+STORE000372,Daily Express,Distributor,East,West Bengal,Kolkata,dailyexpress@enterprisefmcg.com,+91 8237286074,Active,2026-07-15
+STORE000528,Smart Store,Distributor,South,Kerala,Thiruvananthapuram,smartstore@enterprisefmcg.com,+91 7894947140,Active,2026-07-15
+STORE000211,Value Store,Wholesale Depot,South,Kerala,Kozhikode,valuestore@enterprisefmcg.com,+91 8517076491,Active,2026-07-15
+STORE000236,City Foods,Wholesale Depot,South,Karnataka,Hubballi,cityfoods@enterprisefmcg.com,+91 8581441627,Active,2026-07-15
+STORE000102,Daily Express,Retail Outlet,West,Gujarat,Ahmedabad,dailyexpress@enterprisefmcg.com,+91 9761287758,Active,2026-07-15
+STORE000987,Fresh Mart,Retail Outlet,East,Odisha,Bhubaneswar,freshmart@enterprisefmcg.com,+91 7616614133,Active,2026-07-15
+STORE000903,Fresh Market,Hypermarket,East,Odisha,Bhubaneswar,freshmarket@enterprisefmcg.com,+91 6266819134,Active,2026-07-15
+STORE000948,Value Bazaar,Wholesale Depot,South,Tamil Nadu,Coimbatore,valuebazaar@enterprisefmcg.com,+91 6373107350,Active,2026-07-15
+STORE000347,Daily Bazaar,Convenience Store,East,West Bengal,Siliguri,dailybazaar@enterprisefmcg.com,+91 6802024278,Active,2026-07-15
+STORE000140,Fresh Foods,Convenience Store,South,Karnataka,Hubballi,freshfoods@enterprisefmcg.com,+91 7343980348,Active,2026-07-15
+STORE000622,Daily Market,Wholesale Depot,East,West Bengal,Siliguri,dailymarket@enterprisefmcg.com,+91 7363275291,Active,2026-07-15
+STORE000500,Value Store,Supermarket,West,Maharashtra,Mumbai,valuestore@enterprisefmcg.com,+91 8477429559,Active,2026-07-15
+STORE000371,City Express,Online Fulfillment Center,West,Gujarat,Ahmedabad,cityexpress@enterprisefmcg.com,+91 7735331579,Active,2026-07-15
+STORE000199,City Store,Wholesale Depot,West,Maharashtra,Pune,citystore@enterprisefmcg.com,+91 6919641049,Active,2026-07-15
+STORE000688,Prime Mart,Online Fulfillment Center,East,West Bengal,Kolkata,primemart@enterprisefmcg.com,+91 7590840637,Active,2026-07-15
+STORE000585,Daily Store,Convenience Store,East,West Bengal,Kolkata,dailystore@enterprisefmcg.com,+91 9716344252,Active,2026-07-15
+STORE000902,Value Bazaar,Retail Outlet,West,Gujarat,Vadodara,valuebazaar@enterprisefmcg.com,+91 9645611339,Active,2026-07-15
+STORE000060,Family Express,Wholesale Depot,South,Kerala,Kochi,familyexpress@enterprisefmcg.com,+91 8105366812,Active,2026-07-15
+STORE000329,Daily Retail,Convenience Store,North,Delhi,New Delhi,dailyretail@enterprisefmcg.com,+91 6037783504,Active,2026-07-15
+STORE000097,Prime Retail,Retail Outlet,North,Delhi,New Delhi,primeretail@enterprisefmcg.com,+91 9077817375,Active,2026-07-15
+STORE000313,Daily Mart,Distributor,West,Maharashtra,Pune,dailymart@enterprisefmcg.com,+91 8705250319,Active,2026-07-15
+STORE000975,Daily Bazaar,Online Fulfillment Center,North,Uttar Pradesh,Kanpur,dailybazaar@enterprisefmcg.com,+91 9006798628,Active,2026-07-15
+STORE000300,City Market,Convenience Store,West,Gujarat,Surat,citymarket@enterprisefmcg.com,+91 6566242183,Active,2026-07-15
+STORE000278,Fresh Mart,Supermarket,North,Uttar Pradesh,Lucknow,freshmart@enterprisefmcg.com,+91 9262155874,Active,2026-07-15
+STORE000925,Daily Express,Online Fulfillment Center,East,West Bengal,Siliguri,dailyexpress@enterprisefmcg.com,+91 9702353916,Active,2026-07-15
+STORE000602,Smart Market,Distributor,West,Gujarat,Ahmedabad,smartmarket@enterprisefmcg.com,+91 7366037881,Active,2026-07-15
+STORE000440,Prime Express,Hypermarket,East,West Bengal,Kolkata,primeexpress@enterprisefmcg.com,+91 6194104328,Active,2026-07-15
+STORE000838,Daily Store,Distributor,West,Maharashtra,Mumbai,dailystore@enterprisefmcg.com,+91 9920490036,Active,2026-07-15
+STORE000571,Prime Bazaar,Wholesale Depot,North,Uttar Pradesh,Lucknow,primebazaar@enterprisefmcg.com,+91 6271213066,Active,2026-07-15
+STORE000880,Smart Market,Supermarket,East,Odisha,Bhubaneswar,smartmarket@enterprisefmcg.com,+91 8099415986,Active,2026-07-15
+STORE000262,City Market,Retail Outlet,North,Delhi,New Delhi,citymarket@enterprisefmcg.com,+91 9036249533,Active,2026-07-15
+STORE000579,Smart Market,Distributor,West,Gujarat,Ahmedabad,smartmarket@enterprisefmcg.com,+91 7779493427,Active,2026-07-15
+STORE000024,Fresh Retail,Wholesale Depot,North,Uttar Pradesh,Lucknow,freshretail@enterprisefmcg.com,+91 7143401616,Active,2026-07-15
+STORE000031,Value Foods,Distributor,North,Delhi,New Delhi,valuefoods@enterprisefmcg.com,+91 9623455908,Active,2026-07-15
+STORE000618,Fresh Express,Convenience Store,West,Gujarat,Vadodara,freshexpress@enterprisefmcg.com,+91 7756847376,Active,2026-07-15
+STORE000011,Metro Foods,Hypermarket,East,West Bengal,Kolkata,metrofoods@enterprisefmcg.com,+91 8074442164,Active,2026-07-15
+STORE000222,Fresh Mart,Retail Outlet,West,Gujarat,Ahmedabad,freshmart@enterprisefmcg.com,+91 8578907317,Active,2026-07-15
+STORE000821,Daily Store,Distributor,North,Uttar Pradesh,Lucknow,dailystore@enterprisefmcg.com,+91 8741266242,Active,2026-07-15
+STORE000297,Daily Retail,Hypermarket,South,Kerala,Kozhikode,dailyretail@enterprisefmcg.com,+91 9853878563,Active,2026-07-15
+STORE000055,Fresh Bazaar,Hypermarket,East,West Bengal,Siliguri,freshbazaar@enterprisefmcg.com,+91 8566623721,Active,2026-07-15
+STORE000543,Family Retail,Distributor,East,West Bengal,Siliguri,familyretail@enterprisefmcg.com,+91 8044010319,Active,2026-07-15
+STORE000210,City Express,Distributor,North,Uttar Pradesh,Kanpur,cityexpress@enterprisefmcg.com,+91 6155680369,Active,2026-07-15
+STORE000605,City Bazaar,Convenience Store,West,Maharashtra,Pune,citybazaar@enterprisefmcg.com,+91 7266376126,Active,2026-07-15
+STORE000693,Value Store,Supermarket,North,Uttar Pradesh,Kanpur,valuestore@enterprisefmcg.com,+91 9147260880,Active,2026-07-15
+STORE000663,City Bazaar,Retail Outlet,West,Maharashtra,Mumbai,citybazaar@enterprisefmcg.com,+91 7568846550,Active,2026-07-15
+STORE000867,Value Retail,Supermarket,South,Tamil Nadu,Trichy,valueretail@enterprisefmcg.com,+91 9964580890,Active,2026-07-15
+STORE000071,Smart Store,Distributor,West,Maharashtra,Nagpur,smartstore@enterprisefmcg.com,+91 8432952022,Active,2026-07-15
+STORE000544,Smart Mart,Distributor,North,Delhi,New Delhi,smartmart@enterprisefmcg.com,+91 6493798075,Active,2026-07-15
+STORE000108,Value Mart,Retail Outlet,East,Odisha,Bhubaneswar,valuemart@enterprisefmcg.com,+91 9027289372,Active,2026-07-15
+STORE000494,Smart Mart,Hypermarket,West,Maharashtra,Pune,smartmart@enterprisefmcg.com,+91 8793306298,Active,2026-07-15
+STORE000591,Metro Foods,Retail Outlet,East,West Bengal,Siliguri,metrofoods@enterprisefmcg.com,+91 8702327215,Active,2026-07-15
+STORE000742,City Express,Online Fulfillment Center,South,Tamil Nadu,Madurai,cityexpress@enterprisefmcg.com,+91 7425907337,Active,2026-07-15
+STORE000293,Prime Store,Supermarket,East,West Bengal,Kolkata,primestore@enterprisefmcg.com,+91 7681262278,Active,2026-07-15
+STORE000290,Family Foods,Supermarket,West,Maharashtra,Nagpur,familyfoods@enterprisefmcg.com,+91 9297074142,Active,2026-07-15
+STORE000653,Smart Store,Retail Outlet,South,Karnataka,Mysuru,smartstore@enterprisefmcg.com,+91 9589160600,Active,2026-07-15
+STORE000040,City Foods,Wholesale Depot,East,West Bengal,Kolkata,cityfoods@enterprisefmcg.com,+91 8572279437,Active,2026-07-15
+STORE000590,Family Foods,Wholesale Depot,South,Karnataka,Mysuru,familyfoods@enterprisefmcg.com,+91 9973843332,Active,2026-07-15
+STORE000308,City Market,Wholesale Depot,West,Gujarat,Surat,citymarket@enterprisefmcg.com,+91 8548442970,Active,2026-07-15
+STORE000680,Daily Foods,Wholesale Depot,East,West Bengal,Kolkata,dailyfoods@enterprisefmcg.com,+91 7157791094,Active,2026-07-15
+STORE000067,Prime Mart,Online Fulfillment Center,South,Tamil Nadu,Coimbatore,primemart@enterprisefmcg.com,+91 6062250646,Active,2026-07-15
+STORE000276,Value Retail,Supermarket,East,Odisha,Bhubaneswar,valueretail@enterprisefmcg.com,+91 6624601197,Active,2026-07-15
+STORE000068,Daily Mart,Retail Outlet,West,Gujarat,Ahmedabad,dailymart@enterprisefmcg.com,+91 9812711301,Active,2026-07-15
+STORE000319,Smart Store,Online Fulfillment Center,North,Uttar Pradesh,Noida,smartstore@enterprisefmcg.com,+91 7222894289,Active,2026-07-15
+STORE000549,Smart Market,Hypermarket,West,Maharashtra,Mumbai,smartmarket@enterprisefmcg.com,+91 8986560516,Active,2026-07-15
+STORE000999,Metro Express,Hypermarket,North,Delhi,New Delhi,metroexpress@enterprisefmcg.com,+91 7501428246,Active,2026-07-15
+STORE000715,Metro Mart,Supermarket,North,Delhi,New Delhi,metromart@enterprisefmcg.com,+91 9926662426,Active,2026-07-15
+STORE000754,Family Bazaar,Convenience Store,North,Delhi,New Delhi,familybazaar@enterprisefmcg.com,+91 8417375084,Active,2026-07-15
+STORE000328,Value Foods,Wholesale Depot,South,Kerala,Kozhikode,valuefoods@enterprisefmcg.com,+91 7102331665,Active,2026-07-15
+STORE000383,Fresh Express,Supermarket,North,Delhi,New Delhi,freshexpress@enterprisefmcg.com,+91 8757470243,Active,2026-07-15
+STORE000452,Fresh Express,Distributor,West,Maharashtra,Nagpur,freshexpress@enterprisefmcg.com,+91 9717194658,Active,2026-07-15
+STORE000523,Metro Bazaar,Distributor,South,Tamil Nadu,Chennai,metrobazaar@enterprisefmcg.com,+91 6589537129,Active,2026-07-15
+STORE000219,Family Market,Retail Outlet,East,West Bengal,Siliguri,familymarket@enterprisefmcg.com,+91 8684237757,Active,2026-07-15
+STORE000788,Metro Mart,Wholesale Depot,East,West Bengal,Siliguri,metromart@enterprisefmcg.com,+91 7244934847,Active,2026-07-15
+STORE000437,Value Store,Convenience Store,East,West Bengal,Kolkata,valuestore@enterprisefmcg.com,+91 6464165425,Active,2026-07-15
+STORE000765,Prime Bazaar,Online Fulfillment Center,West,Gujarat,Surat,primebazaar@enterprisefmcg.com,+91 8582402955,Active,2026-07-15
+STORE000089,Daily Retail,Online Fulfillment Center,East,West Bengal,Kolkata,dailyretail@enterprisefmcg.com,+91 9844733477,Active,2026-07-15
+STORE000064,Fresh Retail,Convenience Store,West,Gujarat,Vadodara,freshretail@enterprisefmcg.com,+91 7394937267,Active,2026-07-15
+STORE000827,Prime Market,Retail Outlet,West,Gujarat,Ahmedabad,primemarket@enterprisefmcg.com,+91 8081495869,Active,2026-07-15
