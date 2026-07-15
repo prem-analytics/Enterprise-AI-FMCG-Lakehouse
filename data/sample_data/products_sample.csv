@@ -1,0 +1,101 @@
+product_id,sku,product_name,brand,category,subcategory,package_size,uom,cost_price,selling_price,margin_percent,gst_percent,shelf_life_months,status
+PROD000001,SKU000001,NutriPlus Soap 50kg,NutriPlus,Personal Care,Soap,50,kg,cost_price,selling_price,gst_percent,18,6,Active
+PROD000002,SKU000002,PrimeFoods Soft Drinks 200g,PrimeFoods,Beverages,Soft Drinks,200,g,cost_price,selling_price,gst_percent,18,18,Active
+PROD000003,SKU000003,HealthyHome Shampoo 200kg,HealthyHome,Personal Care,Shampoo,200,kg,cost_price,selling_price,gst_percent,5,6,Active
+PROD000004,SKU000004,GoldenFarm Juice 50kg,GoldenFarm,Beverages,Juice,50,kg,cost_price,selling_price,gst_percent,18,12,Active
+PROD000005,SKU000005,PureHarvest Detergent 750pcs,PureHarvest,Household,Detergent,750,pcs,cost_price,selling_price,gst_percent,12,12,Active
+PROD000006,SKU000006,PrimeFoods Namkeen 500g,PrimeFoods,Snacks,Namkeen,500,g,cost_price,selling_price,gst_percent,18,24,Active
+PROD000007,SKU000007,HealthyHome Air Freshener 50kg,HealthyHome,Household,Air Freshener,50,kg,cost_price,selling_price,gst_percent,5,18,Active
+PROD000008,SKU000008,PrimeFoods Namkeen 50g,PrimeFoods,Snacks,Namkeen,50,g,cost_price,selling_price,gst_percent,12,6,Active
+PROD000009,SKU000009,PureHarvest Milk 750ml,PureHarvest,Dairy,Milk,750,ml,cost_price,selling_price,gst_percent,12,6,Active
+PROD000010,SKU000010,DailyChoice Soft Drinks 750pcs,DailyChoice,Beverages,Soft Drinks,750,pcs,cost_price,selling_price,gst_percent,12,6,Active
+PROD000011,SKU000011,HealthyHome Soap 100ml,HealthyHome,Personal Care,Soap,100,ml,cost_price,selling_price,gst_percent,12,12,Active
+PROD000012,SKU000012,NutriPlus Toothpaste 200g,NutriPlus,Personal Care,Toothpaste,200,g,cost_price,selling_price,gst_percent,18,18,Active
+PROD000013,SKU000013,HealthyHome Floor Cleaner 50pcs,HealthyHome,Household,Floor Cleaner,50,pcs,cost_price,selling_price,gst_percent,18,12,Active
+PROD000014,SKU000014,GoldenFarm Cookies 500g,GoldenFarm,Snacks,Cookies,500,g,cost_price,selling_price,gst_percent,5,6,Active
+PROD000015,SKU000015,FreshLife Butter 50g,FreshLife,Dairy,Butter,50,g,cost_price,selling_price,gst_percent,12,12,Active
+PROD000016,SKU000016,NatureFresh Face Wash 50L,NatureFresh,Personal Care,Face Wash,50,L,cost_price,selling_price,gst_percent,18,18,Active
+PROD000017,SKU000017,NutriPlus Curd 100L,NutriPlus,Dairy,Curd,100,L,cost_price,selling_price,gst_percent,12,18,Active
+PROD000018,SKU000018,FreshLife Floor Cleaner 100g,FreshLife,Household,Floor Cleaner,100,g,cost_price,selling_price,gst_percent,5,24,Active
+PROD000019,SKU000019,DailyChoice Butter 1000pcs,DailyChoice,Dairy,Butter,1000,pcs,cost_price,selling_price,gst_percent,5,24,Active
+PROD000020,SKU000020,PrimeFoods Soft Drinks 500kg,PrimeFoods,Beverages,Soft Drinks,500,kg,cost_price,selling_price,gst_percent,5,24,Active
+PROD000021,SKU000021,DailyChoice Detergent 1000ml,DailyChoice,Household,Detergent,1000,ml,cost_price,selling_price,gst_percent,12,6,Active
+PROD000022,SKU000022,PrimeFoods Tea 750kg,PrimeFoods,Beverages,Tea,750,kg,cost_price,selling_price,gst_percent,18,24,Active
+PROD000023,SKU000023,NutriPlus Juice 500ml,NutriPlus,Beverages,Juice,500,ml,cost_price,selling_price,gst_percent,12,6,Active
+PROD000024,SKU000024,GoldenFarm Cheese 500g,GoldenFarm,Dairy,Cheese,500,g,cost_price,selling_price,gst_percent,12,24,Active
+PROD000025,SKU000025,GoldenFarm Dishwash 200kg,GoldenFarm,Household,Dishwash,200,kg,cost_price,selling_price,gst_percent,5,6,Active
+PROD000026,SKU000026,NutriPlus Tea 100pcs,NutriPlus,Beverages,Tea,100,pcs,cost_price,selling_price,gst_percent,18,6,Active
+PROD000027,SKU000027,GoldenFarm Floor Cleaner 1000kg,GoldenFarm,Household,Floor Cleaner,1000,kg,cost_price,selling_price,gst_percent,12,6,Active
+PROD000028,SKU000028,DailyChoice Namkeen 750kg,DailyChoice,Snacks,Namkeen,750,kg,cost_price,selling_price,gst_percent,5,18,Active
+PROD000029,SKU000029,PrimeFoods Shampoo 250L,PrimeFoods,Personal Care,Shampoo,250,L,cost_price,selling_price,gst_percent,5,6,Active
+PROD000030,SKU000030,FreshLife Milk 750L,FreshLife,Dairy,Milk,750,L,cost_price,selling_price,gst_percent,5,12,Active
+PROD000031,SKU000031,NutriPlus Face Wash 500pcs,NutriPlus,Personal Care,Face Wash,500,pcs,cost_price,selling_price,gst_percent,18,6,Active
+PROD000032,SKU000032,GoldenFarm Tea 500g,GoldenFarm,Beverages,Tea,500,g,cost_price,selling_price,gst_percent,18,6,Active
+PROD000033,SKU000033,NutriPlus Coffee 50L,NutriPlus,Beverages,Coffee,50,L,cost_price,selling_price,gst_percent,12,24,Active
+PROD000034,SKU000034,PureHarvest Detergent 100kg,PureHarvest,Household,Detergent,100,kg,cost_price,selling_price,gst_percent,5,24,Active
+PROD000035,SKU000035,NatureFresh Soap 250L,NatureFresh,Personal Care,Soap,250,L,cost_price,selling_price,gst_percent,12,6,Active
+PROD000036,SKU000036,NatureFresh Shampoo 250kg,NatureFresh,Personal Care,Shampoo,250,kg,cost_price,selling_price,gst_percent,12,6,Active
+PROD000037,SKU000037,PureHarvest Toothpaste 500kg,PureHarvest,Personal Care,Toothpaste,500,kg,cost_price,selling_price,gst_percent,12,24,Active
+PROD000038,SKU000038,PureHarvest Shampoo 1000L,PureHarvest,Personal Care,Shampoo,1000,L,cost_price,selling_price,gst_percent,12,24,Active
+PROD000039,SKU000039,NutriPlus Coffee 500kg,NutriPlus,Beverages,Coffee,500,kg,cost_price,selling_price,gst_percent,18,6,Active
+PROD000040,SKU000040,NatureFresh Floor Cleaner 50pcs,NatureFresh,Household,Floor Cleaner,50,pcs,cost_price,selling_price,gst_percent,18,18,Active
+PROD000041,SKU000041,DailyChoice Namkeen 50g,DailyChoice,Snacks,Namkeen,50,g,cost_price,selling_price,gst_percent,18,6,Active
+PROD000042,SKU000042,DailyChoice Floor Cleaner 200g,DailyChoice,Household,Floor Cleaner,200,g,cost_price,selling_price,gst_percent,5,6,Active
+PROD000043,SKU000043,DailyChoice Chips 200pcs,DailyChoice,Snacks,Chips,200,pcs,cost_price,selling_price,gst_percent,5,6,Active
+PROD000044,SKU000044,FreshLife Coffee 750g,FreshLife,Beverages,Coffee,750,g,cost_price,selling_price,gst_percent,12,6,Active
+PROD000045,SKU000045,NutriPlus Soap 1000L,NutriPlus,Personal Care,Soap,1000,L,cost_price,selling_price,gst_percent,12,18,Active
+PROD000046,SKU000046,DailyChoice Soft Drinks 500pcs,DailyChoice,Beverages,Soft Drinks,500,pcs,cost_price,selling_price,gst_percent,12,12,Active
+PROD000047,SKU000047,NatureFresh Butter 250g,NatureFresh,Dairy,Butter,250,g,cost_price,selling_price,gst_percent,12,6,Active
+PROD000048,SKU000048,HealthyHome Air Freshener 1000L,HealthyHome,Household,Air Freshener,1000,L,cost_price,selling_price,gst_percent,18,24,Active
+PROD000049,SKU000049,NutriPlus Face Wash 100pcs,NutriPlus,Personal Care,Face Wash,100,pcs,cost_price,selling_price,gst_percent,12,24,Active
+PROD000050,SKU000050,NutriPlus Dishwash 500kg,NutriPlus,Household,Dishwash,500,kg,cost_price,selling_price,gst_percent,18,6,Active
+PROD000051,SKU000051,PureHarvest Shampoo 1000g,PureHarvest,Personal Care,Shampoo,1000,g,cost_price,selling_price,gst_percent,12,12,Active
+PROD000052,SKU000052,PrimeFoods Tea 500pcs,PrimeFoods,Beverages,Tea,500,pcs,cost_price,selling_price,gst_percent,12,18,Active
+PROD000053,SKU000053,NutriPlus Floor Cleaner 100L,NutriPlus,Household,Floor Cleaner,100,L,cost_price,selling_price,gst_percent,12,24,Active
+PROD000054,SKU000054,HealthyHome Soap 200ml,HealthyHome,Personal Care,Soap,200,ml,cost_price,selling_price,gst_percent,5,18,Active
+PROD000055,SKU000055,PureHarvest Tea 200kg,PureHarvest,Beverages,Tea,200,kg,cost_price,selling_price,gst_percent,12,12,Active
+PROD000056,SKU000056,DailyChoice Curd 750kg,DailyChoice,Dairy,Curd,750,kg,cost_price,selling_price,gst_percent,18,12,Active
+PROD000057,SKU000057,GoldenFarm Toothpaste 1000pcs,GoldenFarm,Personal Care,Toothpaste,1000,pcs,cost_price,selling_price,gst_percent,5,18,Active
+PROD000058,SKU000058,FreshLife Cookies 250pcs,FreshLife,Snacks,Cookies,250,pcs,cost_price,selling_price,gst_percent,18,12,Active
+PROD000059,SKU000059,GoldenFarm Juice 1000L,GoldenFarm,Beverages,Juice,1000,L,cost_price,selling_price,gst_percent,18,24,Active
+PROD000060,SKU000060,HealthyHome Tea 100g,HealthyHome,Beverages,Tea,100,g,cost_price,selling_price,gst_percent,12,12,Active
+PROD000061,SKU000061,DailyChoice Face Wash 750kg,DailyChoice,Personal Care,Face Wash,750,kg,cost_price,selling_price,gst_percent,18,12,Active
+PROD000062,SKU000062,HealthyHome Air Freshener 500L,HealthyHome,Household,Air Freshener,500,L,cost_price,selling_price,gst_percent,18,12,Active
+PROD000063,SKU000063,PureHarvest Soft Drinks 1000kg,PureHarvest,Beverages,Soft Drinks,1000,kg,cost_price,selling_price,gst_percent,18,12,Active
+PROD000064,SKU000064,HealthyHome Chips 750ml,HealthyHome,Snacks,Chips,750,ml,cost_price,selling_price,gst_percent,5,12,Active
+PROD000065,SKU000065,PureHarvest Detergent 1000pcs,PureHarvest,Household,Detergent,1000,pcs,cost_price,selling_price,gst_percent,5,12,Active
+PROD000066,SKU000066,NutriPlus Namkeen 100L,NutriPlus,Snacks,Namkeen,100,L,cost_price,selling_price,gst_percent,18,6,Active
+PROD000067,SKU000067,NatureFresh Curd 50pcs,NatureFresh,Dairy,Curd,50,pcs,cost_price,selling_price,gst_percent,18,18,Active
+PROD000068,SKU000068,PrimeFoods Toothpaste 1000kg,PrimeFoods,Personal Care,Toothpaste,1000,kg,cost_price,selling_price,gst_percent,12,12,Active
+PROD000069,SKU000069,PureHarvest Air Freshener 1000kg,PureHarvest,Household,Air Freshener,1000,kg,cost_price,selling_price,gst_percent,12,6,Active
+PROD000070,SKU000070,FreshLife Milk 250g,FreshLife,Dairy,Milk,250,g,cost_price,selling_price,gst_percent,12,18,Active
+PROD000071,SKU000071,DailyChoice Coffee 750pcs,DailyChoice,Beverages,Coffee,750,pcs,cost_price,selling_price,gst_percent,18,12,Active
+PROD000072,SKU000072,FreshLife Dishwash 1000L,FreshLife,Household,Dishwash,1000,L,cost_price,selling_price,gst_percent,18,6,Active
+PROD000073,SKU000073,NatureFresh Air Freshener 500ml,NatureFresh,Household,Air Freshener,500,ml,cost_price,selling_price,gst_percent,12,6,Active
+PROD000074,SKU000074,PureHarvest Shampoo 100kg,PureHarvest,Personal Care,Shampoo,100,kg,cost_price,selling_price,gst_percent,18,6,Active
+PROD000075,SKU000075,HealthyHome Coffee 500g,HealthyHome,Beverages,Coffee,500,g,cost_price,selling_price,gst_percent,5,24,Active
+PROD000076,SKU000076,FreshLife Dishwash 100kg,FreshLife,Household,Dishwash,100,kg,cost_price,selling_price,gst_percent,5,12,Active
+PROD000077,SKU000077,NatureFresh Namkeen 200g,NatureFresh,Snacks,Namkeen,200,g,cost_price,selling_price,gst_percent,5,12,Active
+PROD000078,SKU000078,GoldenFarm Biscuits 500pcs,GoldenFarm,Snacks,Biscuits,500,pcs,cost_price,selling_price,gst_percent,12,24,Active
+PROD000079,SKU000079,HealthyHome Namkeen 250kg,HealthyHome,Snacks,Namkeen,250,kg,cost_price,selling_price,gst_percent,5,24,Active
+PROD000080,SKU000080,HealthyHome Biscuits 250L,HealthyHome,Snacks,Biscuits,250,L,cost_price,selling_price,gst_percent,18,24,Active
+PROD000081,SKU000081,HealthyHome Face Wash 250kg,HealthyHome,Personal Care,Face Wash,250,kg,cost_price,selling_price,gst_percent,5,12,Active
+PROD000082,SKU000082,NutriPlus Face Wash 500g,NutriPlus,Personal Care,Face Wash,500,g,cost_price,selling_price,gst_percent,18,6,Active
+PROD000083,SKU000083,FreshLife Dishwash 100pcs,FreshLife,Household,Dishwash,100,pcs,cost_price,selling_price,gst_percent,18,6,Active
+PROD000084,SKU000084,FreshLife Curd 1000ml,FreshLife,Dairy,Curd,1000,ml,cost_price,selling_price,gst_percent,5,12,Active
+PROD000085,SKU000085,HealthyHome Cheese 200pcs,HealthyHome,Dairy,Cheese,200,pcs,cost_price,selling_price,gst_percent,18,6,Active
+PROD000086,SKU000086,NutriPlus Air Freshener 250L,NutriPlus,Household,Air Freshener,250,L,cost_price,selling_price,gst_percent,12,12,Active
+PROD000087,SKU000087,PrimeFoods Juice 200kg,PrimeFoods,Beverages,Juice,200,kg,cost_price,selling_price,gst_percent,5,6,Active
+PROD000088,SKU000088,GoldenFarm Floor Cleaner 1000L,GoldenFarm,Household,Floor Cleaner,1000,L,cost_price,selling_price,gst_percent,12,6,Active
+PROD000089,SKU000089,HealthyHome Namkeen 100g,HealthyHome,Snacks,Namkeen,100,g,cost_price,selling_price,gst_percent,18,24,Active
+PROD000090,SKU000090,NutriPlus Coffee 250kg,NutriPlus,Beverages,Coffee,250,kg,cost_price,selling_price,gst_percent,5,24,Active
+PROD000091,SKU000091,NatureFresh Juice 250L,NatureFresh,Beverages,Juice,250,L,cost_price,selling_price,gst_percent,5,6,Active
+PROD000092,SKU000092,PrimeFoods Biscuits 100kg,PrimeFoods,Snacks,Biscuits,100,kg,cost_price,selling_price,gst_percent,12,24,Active
+PROD000093,SKU000093,NutriPlus Face Wash 50L,NutriPlus,Personal Care,Face Wash,50,L,cost_price,selling_price,gst_percent,5,24,Active
+PROD000094,SKU000094,FreshLife Toothpaste 50L,FreshLife,Personal Care,Toothpaste,50,L,cost_price,selling_price,gst_percent,12,24,Active
+PROD000095,SKU000095,DailyChoice Chips 50kg,DailyChoice,Snacks,Chips,50,kg,cost_price,selling_price,gst_percent,18,6,Active
+PROD000096,SKU000096,FreshLife Chips 500g,FreshLife,Snacks,Chips,500,g,cost_price,selling_price,gst_percent,5,24,Active
+PROD000097,SKU000097,FreshLife Soap 250ml,FreshLife,Personal Care,Soap,250,ml,cost_price,selling_price,gst_percent,12,12,Active
+PROD000098,SKU000098,FreshLife Namkeen 50L,FreshLife,Snacks,Namkeen,50,L,cost_price,selling_price,gst_percent,5,6,Active
+PROD000099,SKU000099,NutriPlus Face Wash 500pcs,NutriPlus,Personal Care,Face Wash,500,pcs,cost_price,selling_price,gst_percent,12,18,Active
+PROD000100,SKU000100,NatureFresh Detergent 250ml,NatureFresh,Household,Detergent,250,ml,cost_price,selling_price,gst_percent,12,24,Active

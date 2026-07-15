@@ -2,7 +2,9 @@
 Enterprise Product Master Generator
 """
 
+import time
 import random
+
 import pandas as pd
 
 from configs.settings import PRODUCT_COUNT
@@ -17,74 +19,140 @@ from configs.product_master import (
 
 from utils.id_generator import generate_id
 from utils.file_utils import save_dataset
+from utils.validation import validate_dataset
+from utils.metadata import create_metadata
+from utils.sample_generator import create_sample
 from utils.pricing import generate_pricing
 from utils.logger import logger
 
-logger.info("Product generation started")
 
-products = []
+def main():
 
-for i in range(1, PRODUCT_COUNT + 1):
+    start_time = time.time()
 
-    category = random.choice(list(PRODUCT_CATEGORIES.keys()))
-    subcategory = random.choice(PRODUCT_CATEGORIES[category])
+    products = []
 
-    brand = random.choice(BRANDS)
+    logger.info("Product generation started")
 
-    package_size = random.choice(PACKAGE_SIZES)
-    uom = random.choice(UOMS)
+    for i in range(1, PRODUCT_COUNT + 1):
 
-    gst = random.choice(GST)
-    shelf_life = random.choice(SHELF_LIFE)
+        category = random.choice(
+            list(PRODUCT_CATEGORIES.keys())
+        )
 
-    cost_price, selling_price, margin = generate_pricing()
+        subcategory = random.choice(
+            PRODUCT_CATEGORIES[category]
+        )
 
-    product = {
+        brand = random.choice(BRANDS)
 
-        "product_id": generate_id("PROD", i),
+        package_size = random.choice(PACKAGE_SIZES)
 
-        "sku": generate_id("SKU", i),
+        uom = random.choice(UOMS)
 
-        "product_name": f"{brand} {subcategory} {package_size}{uom}",
+        gst = random.choice(GST)
 
-        "brand": brand,
+        shelf_life = random.choice(SHELF_LIFE)
 
-        "category": category,
+        cost_price, selling_price, margin = generate_pricing()
 
-        "subcategory": subcategory,
+        product = {
 
-        "package_size": package_size,
+            "product_id": generate_id("PROD", i),
 
-        "uom": uom,
+            "sku": generate_id("SKU", i),
 
-        "cost_price": cost_price,
+            "product_name": f"{brand} {subcategory} {package_size}{uom}",
 
-        "selling_price": selling_price,
+            "brand": brand,
 
-        "margin_percent": margin,
+            "category": category,
 
-        "gst_percent": gst,
+            "subcategory": subcategory,
 
-        "shelf_life_months": shelf_life,
+            "package_size": package_size,
 
-        "status": "Active"
+            "uom": uom,
 
-    }
+            "cost_price": cost_price,
 
-    products.append(product)
+            "selling_price": selling_price,
 
-df = pd.DataFrame(products)
+            "margin_percent": margin,
 
-save_dataset(
-    df=df,
-    folder="products",
-    filename="products"
-)
-logger.info("Product generation completed")
+            "gst_percent": gst,
 
-print("=" * 60)
-print("Enterprise Product Master Generated")
-print("=" * 60)
-print(f"Rows Generated : {len(df):,}")
-print("CSV File       : data/generated/products/products.csv")
-print("Parquet File   : data/generated/products/products.parquet")
+            "shelf_life_months": shelf_life,
+
+            "status": "Active"
+
+        }
+
+        products.append(product)
+
+    logger.info("Creating DataFrame")
+
+    df = pd.DataFrame(products)
+
+    logger.info("Validating dataset")
+
+    validate_dataset(
+        df,
+        id_column="product_id",
+        required_columns=[
+            "product_id",
+            "product_name",
+            "brand",
+            "category"
+        ]
+    )
+
+    logger.info("Saving dataset")
+
+    save_dataset(
+        dataframe=df,
+        folder="products",
+        filename="products"
+    )
+
+    logger.info("Creating metadata")
+
+    create_metadata(
+        dataframe=df,
+        folder="products",
+        filename="products"
+    )
+
+    logger.info("Creating sample dataset")
+
+    create_sample(
+        dataframe=df,
+        folder="products",
+        filename="products"
+    )
+
+    elapsed_time = time.time() - start_time
+
+    print("\n" + "=" * 60)
+    print("Enterprise Product Master Generated")
+    print("=" * 60)
+    print(f"Rows Generated : {len(df):,}")
+    print("Validation     : PASSED")
+    print("CSV File       : data/generated/products/products.csv")
+    print("Parquet File   : data/generated/products/products.parquet")
+    print("Metadata File  : data/generated/products/products_metadata.json")
+    print("Sample File    : data/sample_data/products_sample.csv")
+    print("=" * 60)
+    print(f"Execution Time : {elapsed_time:.2f} seconds")
+
+    logger.info(
+        f"Generated {len(df):,} product records successfully"
+    )
+
+    logger.info(
+        f"Execution completed in {elapsed_time:.2f} seconds"
+    )
+
+
+if __name__ == "__main__":
+    main()
