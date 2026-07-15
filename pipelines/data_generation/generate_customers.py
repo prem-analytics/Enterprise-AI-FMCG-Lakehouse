@@ -11,6 +11,7 @@ import pandas as pd
 from configs.settings import CUSTOMER_COUNT
 from utils.faker_utils import random_customer
 from utils.id_generator import generate_id
+from utils.logger import logger
 
 LOYALTY_TIERS = [
     "Bronze",
@@ -36,6 +37,8 @@ os.makedirs(
 )
 
 customers = []
+
+logger.info("Customer generation started")
 
 for i in range(1, CUSTOMER_COUNT + 1):
 
