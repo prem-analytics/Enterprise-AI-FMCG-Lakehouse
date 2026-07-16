@@ -1,5 +1,5 @@
 """
-Enterprise Store Master
+Enterprise Store Master Configuration
 """
 
 STORE_TYPES = [
@@ -20,7 +20,9 @@ STORE_PREFIX = [
     "Value",
     "Daily",
     "Family",
-    "City"
+    "City",
+    "Royal",
+    "Mega"
 ]
 
 STORE_SUFFIX = [
@@ -30,5 +32,41 @@ STORE_SUFFIX = [
     "Foods",
     "Market",
     "Express",
-    "Bazaar"
+    "Bazaar",
+    "Hyper",
+    "Center"
+]
+
+STORE_STATUS = [
+    "Active",
+    "Inactive"
+]
+
+OPENING_TIME = [
+    "08:00",
+    "09:00",
+    "10:00"
+]
+
+CLOSING_TIME = [
+    "20:00",
+    "21:00",
+    "22:00"
+]
+
+STORE_CHANNELS = [
+    "General Trade",
+    "Modern Trade",
+    "Wholesale",
+    "Distributor",
+    "E-Commerce"
+]
+
+FLOOR_AREA = [
+    500,
+    1000,
+    1500,
+    2500,
+    5000,
+    10000
 ]

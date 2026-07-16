@@ -1,10 +1,23 @@
-print("TEST STARTED")
+from utils.location_utils import (
+    random_location,
+    get_city_details
+)
 
-from utils.location_utils import random_location
+print("Testing Enterprise Location Utility\n")
 
-print("IMPORT SUCCESS")
+for _ in range(10):
 
-for i in range(10):
-    print(random_location())
+    location = random_location()
 
-print("TEST FINISHED")
+    city = location["city"]
+
+    details = get_city_details(city)
+
+    print({
+        "Region": location["region"],
+        "State": location["state"],
+        "City": city,
+        "Postal Code": details["postal_code"],
+        "Latitude": details["latitude"],
+        "Longitude": details["longitude"]
+    })

@@ -1,156 +1,150 @@
 first_name,last_name,gender,email,phone,address,city,state,region,pincode,customer_id,loyalty_tier,status,join_date
-Suhani,Swamy,Male,vincent95@example.net,0597124070,"30/376, Ramaswamy Road",Bathinda,Odisha,East,292346,CUST075722,Silver,Active,2026-07-15
-Nachiket,Nath,Female,faraskapoor@example.org,8446643998,"052, Toor Marg",Udaipur,Gujarat,West,112287,CUST080185,Bronze,Active,2026-07-15
-Chakradhar,Ghose,Male,grovermahika@example.com,2217516048,"19, Mohan Path",Saharsa,Odisha,East,337917,CUST019865,Silver,Active,2026-07-15
-Vasana,Oak,Male,bsule@example.net,+916148760315,"01/636, Dhillon Circle",Sasaram,Bihar,East,285767,CUST076700,Platinum,Active,2026-07-15
-Orinder,Joshi,Male,npatla@example.org,07449898880,"77/85
-Mand Nagar",Akola,Gujarat,West,108358,CUST092992,Bronze,Active,2026-07-15
-Laban,Chawla,Female,nakul08@example.com,8749230385,"H.No. 981, Bhatt Ganj",Bettiah,Uttar Pradesh,North,576065,CUST076435,Silver,Active,2026-07-15
-David,Bakshi,Female,ppatla@example.org,+917358630362,"78/662
-Badal Street",Kakinada,Karnataka,South,093504,CUST084005,Silver,Inactive,2026-07-15
-Aachal,Bir,Male,mannanlaksh@example.com,00264181705,"31, Pradhan",Ongole,Maharashtra,West,301378,CUST080918,Bronze,Active,2026-07-15
-Wridesh,Randhawa,Male,gbajwa@example.com,+912798161299,"H.No. 911, Chana Path",Erode,Kerala,South,528747,CUST060768,Silver,Inactive,2026-07-15
-Caleb,Deo,Female,manisneha@example.net,1091555884,"64/939, Jhaveri Zila",Ulhasnagar,Bihar,East,359554,CUST050075,Platinum,Active,2026-07-15
-Vivaan,Prashad,Male,vraju@example.net,+912436468452,"801
-Mane Road",Mira-Bhayandar,Maharashtra,West,671029,CUST027702,Gold,Active,2026-07-15
-Logan,Choudhry,Female,basakyashasvi@example.org,09065918896,"H.No. 83
-Mishra Road",Karawal Nagar,Kerala,South,290379,CUST042142,Bronze,Active,2026-07-15
-Aayush,Pall,Male,mugdhapai@example.net,09063715179,"02/91, Gole Nagar",Visakhapatnam,Odisha,East,621816,CUST045081,Bronze,Active,2026-07-15
-Zehaan,Kapur,Female,sankarmekhala@example.com,2388125232,"08/32, Pillai Circle",New Delhi,Odisha,East,375071,CUST016639,Silver,Inactive,2026-07-15
-Leena,Setty,Male,udyati70@example.net,5883628170,"19
-Chatterjee Path",Darbhanga,Goa,West,150560,CUST020425,Bronze,Active,2026-07-15
-Eshana,Gola,Female,banjeet47@example.org,4999556145,"64, Nazareth Zila",Vijayanagaram,Goa,West,491154,CUST088703,Gold,Active,2026-07-15
-Forum,Narayanan,Female,misramanan@example.com,05398442986,"H.No. 674, Chakrabarti Zila",Sambalpur,Kerala,South,205507,CUST000150,Bronze,Active,2026-07-15
-Prisha,Brar,Female,barya@example.net,05069035681,"441
-Kaur Street",Thanjavur,Punjab,North,690392,CUST001762,Bronze,Inactive,2026-07-15
-Chanchal,Vaidya,Male,bahrijatin@example.net,6262364723,"42/277
-Anne Circle",Panipat,Delhi,North,631249,CUST063121,Bronze,Active,2026-07-15
-Daksha,Barman,Female,saibaria@example.net,7002969767,"H.No. 14, Venkataraman Road",Sri Ganganagar,Goa,West,246808,CUST069162,Bronze,Active,2026-07-15
-Unni,Chada,Female,shankarmaanas@example.com,4652167094,"70
-Kapur Ganj",Tenali,West Bengal,East,261218,CUST064884,Platinum,Active,2026-07-15
-Aarna,Bhatia,Male,christopher37@example.com,+915406720059,"20, Dar Path",Etawah,Odisha,East,088098,CUST002496,Silver,Active,2026-07-15
-Oni,Rajagopal,Female,srinivasanvictor@example.net,02222481548,"038, Sengupta",Saharsa,Gujarat,West,327884,CUST080297,Bronze,Active,2026-07-15
-Niharika,De,Male,karan63@example.org,8385080556,"12, Uppal Nagar",Baranagar,Gujarat,West,904762,CUST019448,Silver,Active,2026-07-15
-Abhimanyu,Palan,Female,hramakrishnan@example.org,0462023458,"01
-Nair Ganj",Jamnagar,Andhra Pradesh,South,559906,CUST041332,Silver,Active,2026-07-15
-Pallavi,Chada,Male,rajuwahab@example.net,7707876316,"71/611
-Oommen Path",Avadi,Uttarakhand,North,863205,CUST014889,Bronze,Active,2026-07-15
-Neha,Singh,Male,klala@example.net,+912617009148,"H.No. 31, Sandhu Chowk",Noida,Gujarat,West,472960,CUST088637,Gold,Active,2026-07-15
-Mugdha,Badal,Male,raghavanikshita@example.org,7761487192,"300
-Kalla Path",Panipat,Delhi,North,605173,CUST094893,Bronze,Active,2026-07-15
-Aadi,Pathak,Male,adwetadhar@example.net,+916384847795,"H.No. 66, Mody Path",Bidar,West Bengal,East,259095,CUST092732,Bronze,Active,2026-07-15
-Maanas,Hari,Female,ltripathi@example.org,05680835425,"53/461, Gandhi Ganj",Kozhikode,Tamil Nadu,South,486859,CUST029131,Bronze,Active,2026-07-15
-Arunima,Jayaraman,Female,qnagy@example.com,+911428850967,"H.No. 86
-Narain Marg",Navi Mumbai,Maharashtra,West,476384,CUST079023,Gold,Inactive,2026-07-15
-Oeshi,Soman,Male,sameshsethi@example.org,+910804056830,"91/099
-Radhakrishnan Marg",North Dumdum,Rajasthan,West,750177,CUST084937,Gold,Active,2026-07-15
-Gunbir,Parmar,Male,tkala@example.com,+915234613543,"885
-Nori Ganj",Ichalkaranji,Karnataka,South,245341,CUST016822,Bronze,Active,2026-07-15
-Umang,Talwar,Male,aissac@example.com,+912082980823,"H.No. 204
-Thaman Street",Davanagere,Haryana,North,263251,CUST036734,Gold,Active,2026-07-15
-Aarush,Jaggi,Female,vivaankorpal@example.com,07698586008,"507, Choudhary Ganj",Kota,Goa,West,817024,CUST015603,Bronze,Active,2026-07-15
-Divya,Kanda,Female,davidcomar@example.org,8787173676,"079, Sheth Zila",Cuttack,Uttar Pradesh,North,818769,CUST028534,Silver,Inactive,2026-07-15
-Rishi,Thaman,Male,samarshah@example.com,09442871032,"91/27
-Venkatesh Zila",Jamshedpur,Jharkhand,East,077557,CUST069770,Gold,Active,2026-07-15
-Girik,Raju,Female,abajwa@example.net,00750022610,"H.No. 50, Yohannan Zila",Deoghar,West Bengal,East,751957,CUST011406,Silver,Active,2026-07-15
-Oeshi,Suresh,Male,dgoswami@example.com,4579038939,"23
-Iyengar Marg",Etawah,Punjab,North,234424,CUST096853,Gold,Active,2026-07-15
-Anya,Dhawan,Female,jkade@example.net,02064410419,"43
-Batra Marg",Aizawl,Rajasthan,West,173780,CUST016131,Bronze,Active,2026-07-15
-Robert,Kohli,Male,kondaaishani@example.org,+918246726541,"06, Loyal Ganj",Narasaraopet,Gujarat,West,949435,CUST019793,Bronze,Active,2026-07-15
-Aditya,Wable,Female,desainihal@example.net,5438569416,"H.No. 27
-Barad Nagar",Munger,Kerala,South,159098,CUST089578,Bronze,Active,2026-07-15
-Bimala,Chada,Male,dhingraosha@example.org,06727198186,"65/58, Murthy Chowk",Nanded,Uttarakhand,North,487413,CUST040164,Bronze,Inactive,2026-07-15
-Avi,Naik,Male,manyasane@example.org,05936517198,"06
-Khatri",Solapur,Delhi,North,455016,CUST031777,Bronze,Active,2026-07-15
-Widisha,Goswami,Female,yashodharasehgal@example.org,5208508152,"54/66
-Varughese Street",Vellore,Bihar,East,657281,CUST025331,Bronze,Active,2026-07-15
-Netra,Sodhi,Female,chamelipadmanabhan@example.org,3821461921,"H.No. 029
-Karpe Circle",Sambalpur,Jharkhand,East,732618,CUST079157,Gold,Active,2026-07-15
-Elijah,Batta,Female,guptaupasna@example.net,02563679707,"79/41
-Bedi Marg",Ongole,Jharkhand,East,851058,CUST051686,Bronze,Active,2026-07-15
-Charan,Ratti,Male,ahujazaid@example.org,05879264109,"15, Atwal Road",Shimla,Maharashtra,West,008233,CUST075499,Bronze,Active,2026-07-15
-Lopa,Solanki,Female,avni51@example.org,06633645355,"43/307, Kapoor Nagar",Madanapalle,Uttarakhand,North,152352,CUST004728,Silver,Active,2026-07-15
-Vasatika,Shere,Male,shankarbhanumati@example.com,4785940822,"H.No. 30
-Sachdev Zila",Anand,Uttar Pradesh,North,870299,CUST085199,Bronze,Active,2026-07-15
-Osha,Singhal,Female,kalaishita@example.net,06688612943,"H.No. 667
-Sethi Nagar",Shimoga,Bihar,East,842763,CUST035796,Silver,Active,2026-07-15
-Hemani,Setty,Female,nagialexander@example.com,00716100243,"H.No. 362, Sathe Street",Karimnagar,Bihar,East,840798,CUST012257,Silver,Active,2026-07-15
-Aradhana,Krishnan,Female,qushi40@example.org,0090295435,"139
-Kaur Ganj",Tumkur,Goa,West,077603,CUST035719,Bronze,Active,2026-07-15
-Charles,Handa,Female,saksham89@example.net,07498873658,"36/12
-Divan Zila",Chandigarh,Karnataka,South,780176,CUST070552,Gold,Active,2026-07-15
-Girik,Pai,Female,hshan@example.org,04777959292,"633
-Khalsa Street",Serampore,Rajasthan,West,623907,CUST054375,Bronze,Active,2026-07-15
-Rishi,Saini,Male,devanneel@example.net,2836792444,"81/11, Purohit Chowk",Hospet,Karnataka,South,912640,CUST039692,Platinum,Active,2026-07-15
-Faqid,Shanker,Female,shankarnirja@example.org,+919620868878,"69/33
-Rajagopalan Road",Udaipur,Uttar Pradesh,North,169880,CUST093703,Silver,Active,2026-07-15
-Radha,Maharaj,Male,jagatdua@example.net,+919763146371,"61/62, Dora Ganj",Bhopal,Uttar Pradesh,North,447489,CUST073692,Bronze,Active,2026-07-15
-Krishna,D’Alia,Male,kibejanuja@example.net,03614600690,"H.No. 822, D’Alia Circle",Guwahati,Gujarat,West,604928,CUST098071,Silver,Active,2026-07-15
-Tanveer,Lala,Female,isandhu@example.com,+911352967498,"639
-Muni Road",Kalyan-Dombivli,Uttarakhand,North,797381,CUST000576,Silver,Active,2026-07-15
-Leela,Rajan,Female,badaminakul@example.net,02532799641,"752
-Tiwari Ganj",Uluberia,Jharkhand,East,675837,CUST084611,Bronze,Active,2026-07-15
-Hiral,Anand,Female,jhachameli@example.com,02016408660,"H.No. 47, Lad Ganj",Katni,Goa,West,283872,CUST061770,Bronze,Active,2026-07-15
-Aarav,Mitter,Female,sawhneygayathri@example.org,8417572839,"42/95, Som Chowk",Vasai-Virar,Goa,West,421331,CUST032261,Bronze,Active,2026-07-15
-Wriddhish,Hans,Female,irya01@example.net,+910589881891,"H.No. 23, Chacko Street",Srikakulam,Tamil Nadu,South,973537,CUST082200,Silver,Active,2026-07-15
-Xiti,Narain,Male,dayitabahl@example.org,+912755842339,"68/12
-Deshpande",Siliguri,Uttarakhand,North,907607,CUST036291,Bronze,Active,2026-07-15
-Udant,Date,Male,shrofflucky@example.org,1687008244,"H.No. 59
-Pal Road",Bally,Kerala,South,858818,CUST078450,Gold,Active,2026-07-15
-Nandini,Sampath,Male,timothy70@example.net,8536891067,"193, Kohli Circle",Mirzapur,Haryana,North,079625,CUST060056,Bronze,Active,2026-07-15
-Chanchal,Sharma,Male,ekapad77@example.net,+916203294775,"48/27
-Malhotra",Bardhaman,Kerala,South,645958,CUST045949,Bronze,Active,2026-07-15
-Gaurang,Jayaraman,Female,aradhanadeshmukh@example.com,+910847387563,"89
-Puri Path",Bhubaneswar,Bihar,East,041046,CUST028178,Silver,Active,2026-07-15
-Rayaan,Srinivas,Male,tanmayi24@example.org,7151679663,"83/333
-Kurian Zila",Bhubaneswar,Jharkhand,East,216418,CUST084464,Silver,Active,2026-07-15
-David,Vohra,Female,ria89@example.net,8260307643,"H.No. 032, Mallick Circle",Bangalore,Rajasthan,West,566749,CUST000579,Gold,Active,2026-07-15
-Anamika,Pandya,Male,amaradivan@example.net,07368167774,"50/21
-Nayar Street",Rohtak,Haryana,North,791170,CUST030960,Gold,Active,2026-07-15
-Balveer,Pandya,Female,idhaliwal@example.net,+915730901826,"69/510
-Khanna",Karnal,Gujarat,West,663652,CUST064291,Bronze,Active,2026-07-15
-Ojas,Issac,Female,qkade@example.org,+914367717915,"H.No. 54, Mane Chowk",Ahmedabad,Odisha,East,252148,CUST014532,Gold,Active,2026-07-15
-Aishani,Pall,Female,srana@example.org,01951817766,"H.No. 20
-Lata Street",Hajipur,Karnataka,South,321155,CUST017934,Bronze,Active,2026-07-15
-Unnati,Rajagopalan,Female,comaranvi@example.net,+918193739013,"20/262
-Grewal Circle",Mau,Goa,West,121395,CUST033609,Bronze,Active,2026-07-15
-Aarav,Narula,Male,settyzarna@example.net,07269719828,"20/818
-Kade Street",Srinagar,Kerala,South,377438,CUST049960,Silver,Active,2026-07-15
-Turvi,Ganesh,Female,hiral38@example.org,04686293634,"H.No. 54
-Dugal Path",Amravati,Delhi,North,369827,CUST066599,Bronze,Active,2026-07-15
-Chaitaly,Bhattacharyya,Female,mangatumang@example.net,4800560957,"00
-Parmer Path",Tiruppur,Delhi,North,124907,CUST099090,Gold,Inactive,2026-07-15
-Bhanumati,Banik,Male,wallabhavani@example.com,+918445563619,"11, Srinivasan Street",Surat,Punjab,North,518781,CUST034452,Bronze,Active,2026-07-15
-Panini,Dyal,Female,sbadal@example.com,+915694505918,"722
-Singh Marg",Jaipur,Kerala,South,810298,CUST034081,Silver,Active,2026-07-15
-Raksha,Guha,Male,znarayanan@example.net,0762597273,"H.No. 434
-Seth Circle",Siwan,Telangana,South,976578,CUST063588,Bronze,Active,2026-07-15
-Yash,Prabhakar,Female,kritika78@example.org,07900638885,"19/420, Chatterjee Nagar",Raurkela Industrial Township,Delhi,North,967020,CUST004294,Bronze,Active,2026-07-15
-Baghyawati,Kumar,Male,tgera@example.net,+916213777212,"03/070, Bhakta Road",Nangloi Jat,Telangana,South,151678,CUST069103,Gold,Active,2026-07-15
-Chandresh,Bhatnagar,Male,robertbasak@example.net,01274917645,"H.No. 943
-Dhingra Marg",Bhilai,Uttar Pradesh,North,609563,CUST086412,Gold,Active,2026-07-15
-Ucchal,Krish,Female,ryan29@example.org,8901547464,"79
-Varty Path",Panihati,Rajasthan,West,001949,CUST099477,Platinum,Active,2026-07-15
-Aryan,Keer,Female,bhavani41@example.com,8048582188,"31, Ganesan",Sikar,Telangana,South,247290,CUST053930,Bronze,Active,2026-07-15
-Manthan,Dass,Male,rprakash@example.org,+913665697416,"28/88
-Date Ganj",Kishanganj,West Bengal,East,524112,CUST087071,Bronze,Active,2026-07-15
-Ekantika,Kapur,Male,ksrinivas@example.org,+917259728857,"11/51, Gaba Marg",Jaunpur,Goa,West,564214,CUST065084,Bronze,Active,2026-07-15
-Hritik,Banik,Male,wkala@example.net,00662099175,"06/33
-Nadig",Nagpur,Telangana,South,737628,CUST030713,Silver,Active,2026-07-15
-Abeer,Desai,Female,siddharth05@example.net,09231107068,"71, Dhillon Chowk",Thane,Telangana,South,733266,CUST049183,Platinum,Active,2026-07-15
-Priya,Sane,Female,ramakrishnanmadhav@example.com,+914280230957,"61/723, Dora Chowk",Navi Mumbai,Tamil Nadu,South,070569,CUST057235,Bronze,Inactive,2026-07-15
-Adya,Varty,Female,fthakur@example.org,+912102380087,"65/673
-Narayan Path",Rajpur Sonarpur,Jharkhand,East,757102,CUST015664,Bronze,Active,2026-07-15
-Andrew,Thakur,Female,ochakraborty@example.net,09148574891,"12/03, Varughese Circle",Loni,West Bengal,East,156843,CUST019967,Silver,Active,2026-07-15
-Baljiwan,Soni,Male,onveer97@example.net,+914743435894,"84/180
-Varkey Street",Loni,Haryana,North,952087,CUST091913,Bronze,Active,2026-07-15
-Avi,Kalita,Female,vthaman@example.com,04425096853,"84, Pant",Rourkela,Odisha,East,046057,CUST091958,Gold,Active,2026-07-15
-Patrick,Prasad,Male,raylajita@example.net,+916382480304,"86
-Verma Path",Gudivada,Bihar,East,300475,CUST081347,Silver,Active,2026-07-15
-Kalpit,Bobal,Male,csuresh@example.com,+919835650968,"84/010
-Kapur Circle",Ranchi,Gujarat,West,170375,CUST055326,Silver,Active,2026-07-15
-Nilima,Keer,Female,xradhakrishnan@example.org,3400283131,"H.No. 603
-Chacko Circle",Kulti,Maharashtra,West,666566,CUST029858,Bronze,Active,2026-07-15
-Pallavi,Kara,Male,wjayaraman@example.net,6208204086,"08/15
-Narang",Jalgaon,Maharashtra,West,720346,CUST071223,Bronze,Active,2026-07-15
+Bimala,Chander,Male,dipta58@example.net,+918014958952,"H.No. 806
+Swaminathan Path",Guna,Andhra Pradesh,South,751328,CUST075722,Bronze,Active,2026-07-16
+Utkarsh,Sanghvi,Male,indrajitnadkarni@example.com,07590473253,"96
+Khare Marg",Pondicherry,Punjab,North,773132,CUST080185,Bronze,Active,2026-07-16
+Bimala,Venkataraman,Female,fradoprabhakar@example.net,+917110607423,"36/101
+Bhasin Street",Surat,Bihar,East,310108,CUST019865,Gold,Active,2026-07-16
+David,Soni,Female,lwason@example.org,6502221399,"H.No. 88
+Rama Chowk",Moradabad,Rajasthan,West,855515,CUST076700,Bronze,Active,2026-07-16
+Qabil,Ratta,Male,maanav07@example.com,2741031772,"75/979
+Dubey Circle",Solapur,Delhi,North,260510,CUST092992,Bronze,Active,2026-07-16
+Wahab,Rama,Female,agastyabahri@example.net,09390024056,"50/64, De Chowk",Surat,Maharashtra,West,414613,CUST076435,Bronze,Inactive,2026-07-16
+Ekapad,Srivastava,Female,qasimgaba@example.net,7313442350,"72, Pai Circle",Kottayam,Punjab,North,420758,CUST084005,Bronze,Active,2026-07-16
+Chaitanya,Purohit,Male,vvirk@example.com,01340040584,"H.No. 57
+Bora",Warangal,Rajasthan,West,517965,CUST080918,Platinum,Active,2026-07-16
+Falak,Dass,Female,samuelvyas@example.com,0814602787,"993
+Sarna Marg",Avadi,Haryana,North,535576,CUST060768,Bronze,Active,2026-07-16
+Fariq,Dhar,Male,meeraanne@example.com,+917521085157,"H.No. 662
+Sarkar Path",Siwan,West Bengal,East,761052,CUST050075,Silver,Active,2026-07-16
+Hema,Lad,Male,ybumb@example.org,+914431736885,"67, Chaudhary Circle",Gopalpur,Uttar Pradesh,North,618143,CUST027702,Silver,Active,2026-07-16
+Irya,Modi,Female,gayathri44@example.net,7963753117,"55/44, Bedi",Parbhani,Odisha,East,923124,CUST042142,Silver,Active,2026-07-16
+Nicholas,Venkataraman,Female,noah81@example.com,+913243585501,"H.No. 755
+Ratti Chowk",Naihati,Delhi,North,259584,CUST045081,Bronze,Active,2026-07-16
+Tanay,Oza,Male,ckaran@example.com,03440309981,"815, Ganesh Circle",Mehsana,Uttar Pradesh,North,078167,CUST016639,Bronze,Active,2026-07-16
+Michael,Saraf,Female,patrickkapoor@example.com,2593037802,"H.No. 846
+Wali Street",Motihari,Odisha,East,667291,CUST020425,Bronze,Active,2026-07-16
+Matthew,Shenoy,Female,hparmar@example.net,+919646191938,"397, Banik Zila",Mangalore,Rajasthan,West,555173,CUST088703,Silver,Active,2026-07-16
+Yashodhara,Balakrishnan,Male,baghyawatikari@example.org,2568916707,"H.No. 782
+Sane Circle",Thanjavur,Gujarat,West,479864,CUST000150,Bronze,Active,2026-07-16
+Henry,Sengupta,Female,joshuanarayanan@example.net,08559031258,"54/842
+Gaba Ganj",Haldia,Uttar Pradesh,North,605889,CUST001762,Gold,Active,2026-07-16
+Alexander,Bal,Female,jchand@example.org,0223297907,"H.No. 323, Savant Ganj",Junagadh,Delhi,North,184715,CUST063121,Bronze,Active,2026-07-16
+Jhalak,Naik,Male,yoshita55@example.net,08779997192,"30/93, Mall Nagar",Tinsukia,Haryana,North,074662,CUST069162,Silver,Active,2026-07-16
+Suhani,Kuruvilla,Male,geetika63@example.org,+913813599721,"H.No. 981
+Hayre Zila",Bhubaneswar,Andhra Pradesh,South,391785,CUST064884,Bronze,Active,2026-07-16
+Falan,Mukherjee,Female,varkeyshaurya@example.net,+914418902830,"H.No. 746, Kale Circle",Giridih,West Bengal,East,111750,CUST002496,Bronze,Active,2026-07-16
+Harrison,Varkey,Male,hamsini74@example.org,09174409233,"H.No. 184, Narayan",Nangloi Jat,West Bengal,East,824171,CUST080297,Silver,Active,2026-07-16
+Isaac,Thakur,Male,korpalbaljiwan@example.org,06104507068,"441, Taneja Street",Bhiwani,Maharashtra,West,333271,CUST019448,Bronze,Active,2026-07-16
+Chameli,Thaman,Male,virkdiya@example.net,+912579553833,"H.No. 646, Buch Path",Katihar,Haryana,North,081315,CUST041332,Bronze,Active,2026-07-16
+Nitara,Subramanian,Male,murtyvarsha@example.net,05709247940,"H.No. 015, Ravel Road",Khammam,Kerala,South,544034,CUST014889,Bronze,Active,2026-07-16
+Daksha,Muni,Female,ssood@example.org,5752791615,"08/38, Golla Road",Mumbai,Rajasthan,West,706965,CUST088637,Bronze,Active,2026-07-16
+Chaaya,Batta,Male,tamanna49@example.org,06088019260,"799, Buch Road",Miryalaguda,Telangana,South,977219,CUST094893,Bronze,Active,2026-07-16
+Vamakshi,Rajan,Male,rishisharma@example.org,+916219030506,"841
+Hayre Road",Pimpri-Chinchwad,Bihar,East,071513,CUST092732,Bronze,Active,2026-07-16
+Bakhshi,Mukherjee,Female,jsani@example.net,7352800137,"H.No. 810, Gandhi Nagar",Aligarh,Tamil Nadu,South,267043,CUST029131,Bronze,Active,2026-07-16
+Yutika,Tank,Female,apuri@example.com,5718254588,"473, Parikh Zila",Satna,Jharkhand,East,019667,CUST079023,Bronze,Active,2026-07-16
+Yadavi,Pant,Female,zsingh@example.com,03768328516,"H.No. 680, Patla Circle",Panihati,Jharkhand,East,284774,CUST084937,Silver,Active,2026-07-16
+Wazir,Boase,Male,bswamy@example.com,+918073362761,"400, Chand Road",Morena,Gujarat,West,086060,CUST016822,Silver,Active,2026-07-16
+Urvi,Rajan,Female,warjas40@example.org,04423267207,"52, Raju Path",Mahbubnagar,Maharashtra,West,233100,CUST036734,Bronze,Active,2026-07-16
+Yadavi,Dua,Male,dattatara@example.net,01213232941,"82/51, Bali Marg",Kakinada,Telangana,South,765689,CUST015603,Bronze,Active,2026-07-16
+Ekbal,Luthra,Female,fiyazbajaj@example.com,00926713270,"H.No. 133, Brahmbhatt Street",Tiruchirappalli,Maharashtra,West,561654,CUST028534,Bronze,Active,2026-07-16
+Samarth,Khatri,Female,meeranazareth@example.org,0996496682,"H.No. 76
+Bakshi Circle",Panipat,Bihar,East,842029,CUST069770,Silver,Active,2026-07-16
+Vivaan,Gill,Female,falguni96@example.com,01311441054,"H.No. 606, Sekhon Path",Imphal,Telangana,South,382218,CUST011406,Bronze,Active,2026-07-16
+Gaurika,Barad,Female,irya63@example.org,03834651321,"73/916, Naidu Path",Meerut,Rajasthan,West,790436,CUST096853,Platinum,Active,2026-07-16
+Watika,Bhakta,Female,ykanda@example.org,05366516090,"H.No. 22
+Kala Path",Deoghar,Goa,West,461352,CUST016131,Bronze,Active,2026-07-16
+Ati,Chatterjee,Male,fvig@example.org,+912183850288,"H.No. 78, Mital",Hazaribagh,Uttarakhand,North,953688,CUST019793,Silver,Active,2026-07-16
+Ekanta,Pingle,Male,elijah66@example.org,2999603984,"38/739
+Bains Circle",Dharmavaram,Telangana,South,775352,CUST089578,Bronze,Active,2026-07-16
+Aarna,Luthra,Female,vaishnavi82@example.org,+912757621473,"66/20, Palan Street",Rajkot,Jharkhand,East,187598,CUST040164,Bronze,Active,2026-07-16
+Aarna,Bahri,Female,jasonjohal@example.org,02900003803,"03/46, Amble Circle",Phagwara,Andhra Pradesh,South,850060,CUST031777,Bronze,Active,2026-07-16
+Hemani,Verma,Female,subramanianamrita@example.org,+917713212958,"H.No. 58
+Brar Zila",Delhi,Odisha,East,883177,CUST025331,Bronze,Active,2026-07-16
+Sara,Doctor,Female,vbose@example.org,+913980314031,"28
+Yadav Marg",Nellore,Gujarat,West,775646,CUST079157,Bronze,Active,2026-07-16
+Manbir,Bhasin,Female,sachi31@example.org,06580058519,"850, Biswas Circle",Howrah,Andhra Pradesh,South,763273,CUST051686,Platinum,Active,2026-07-16
+Isha,Krishnan,Female,ddani@example.com,03288946582,"H.No. 362
+Krishna Ganj",Chinsurah,Goa,West,727915,CUST075499,Silver,Active,2026-07-16
+Zashil,Parsa,Female,gauri36@example.com,03139743224,"518
+Gera Nagar",Madurai,Rajasthan,West,126343,CUST004728,Platinum,Active,2026-07-16
+Rajeshri,Dey,Female,aptenakul@example.org,+915107666909,"H.No. 90
+Raja Road",Satara,Rajasthan,West,254978,CUST085199,Bronze,Active,2026-07-16
+Shivani,Rao,Male,srinivasindali@example.com,8825895452,"H.No. 703
+Mann",Shimla,Tamil Nadu,South,658562,CUST035796,Bronze,Active,2026-07-16
+Pahal,Suresh,Female,nagarajansara@example.com,+910245558964,"42/390
+Sabharwal Road",Junagadh,Andhra Pradesh,South,452770,CUST012257,Bronze,Active,2026-07-16
+Ayushman,Jhaveri,Female,kalpit62@example.org,1365171270,"733
+Panchal Zila",Karimnagar,Delhi,North,157802,CUST035719,Bronze,Active,2026-07-16
+Chaman,Khare,Male,nkala@example.org,6637664898,"14, Mittal Ganj",Jalna,Jharkhand,East,083468,CUST070552,Bronze,Active,2026-07-16
+Jeet,Natt,Male,sarafjonathan@example.org,00204855680,"86, Bal Chowk",Karawal Nagar,Punjab,North,953485,CUST054375,Bronze,Active,2026-07-16
+Geetika,Panchal,Male,lajitadevi@example.org,6560313441,"H.No. 425, Jain Marg",Uluberia,Uttar Pradesh,North,633293,CUST039692,Bronze,Active,2026-07-16
+Raghav,Bahri,Female,ravelmaanas@example.net,02870963369,"H.No. 186
+Bhatia Street",North Dumdum,West Bengal,East,373580,CUST093703,Silver,Active,2026-07-16
+Harshil,Behl,Female,varkeykrishna@example.org,+911172010232,"896
+Saran Street",Udaipur,Bihar,East,079349,CUST073692,Bronze,Active,2026-07-16
+Bhavna,Bhavsar,Female,chakradharnagar@example.org,+912194193986,"H.No. 33
+Wason Zila",Chennai,Delhi,North,558145,CUST098071,Gold,Active,2026-07-16
+Nimrat,Vaidya,Male,dakshkonda@example.com,+915680302449,"86/401
+Mann Circle",Guwahati,Odisha,East,150020,CUST000576,Bronze,Active,2026-07-16
+Turvi,Lanka,Female,jmuni@example.net,2817123754,"800
+Chauhan Nagar",Kulti,Uttar Pradesh,North,557163,CUST084611,Platinum,Active,2026-07-16
+Gautami,Dey,Male,fvarghese@example.org,1179177699,"62/13
+Purohit Path",Thane,Goa,West,303539,CUST061770,Bronze,Inactive,2026-07-16
+Tanay,Kohli,Male,indira68@example.org,1108544734,"H.No. 326
+Loyal Chowk",Munger,Kerala,South,064943,CUST032261,Bronze,Active,2026-07-16
+Oni,Shan,Male,ekanideshmukh@example.net,+910565996785,"H.No. 28, Prasad Circle",Nangloi Jat,Odisha,East,631014,CUST082200,Bronze,Active,2026-07-16
+Damyanti,Ranganathan,Male,qiyengar@example.com,04531546467,"95/098, Om Zila",Mysore,Andhra Pradesh,South,564000,CUST036291,Bronze,Active,2026-07-16
+Ubika,Jhaveri,Male,xsachdeva@example.org,02280883868,"35/099
+Sehgal Street",Raebareli,Delhi,North,217085,CUST078450,Bronze,Active,2026-07-16
+Kevin,Chaudhry,Female,gkothari@example.org,00967541926,"60/367
+Sarin Circle",Noida,Maharashtra,West,501499,CUST060056,Bronze,Active,2026-07-16
+Frado,Raval,Male,sethitanish@example.net,+915380845703,"67/631
+Bakshi Nagar",Dehradun,Bihar,East,604127,CUST045949,Bronze,Active,2026-07-16
+Jairaj,Manda,Male,edhithasrinivas@example.org,05902434829,"523, Shankar Nagar",Hindupur,Telangana,South,966315,CUST028178,Silver,Active,2026-07-16
+Kavya,Raju,Male,divyasubramanian@example.com,+915264634522,"H.No. 736
+Narang Nagar",Guna,Kerala,South,207884,CUST084464,Silver,Active,2026-07-16
+Dhruv,Maharaj,Female,deymadhav@example.net,01127259339,"73/583
+Joshi",Secunderabad,Karnataka,South,244955,CUST000579,Bronze,Active,2026-07-16
+Raghav,Badami,Female,hsehgal@example.org,5612768343,"77, Nadig Zila",Bharatpur,Gujarat,West,602762,CUST030960,Silver,Active,2026-07-16
+Ranveer,Boase,Male,goleraagini@example.com,5186514937,"H.No. 65, Dhillon Marg",Hospet,Maharashtra,West,169423,CUST064291,Bronze,Active,2026-07-16
+Tarak,Bali,Female,singhalbhavini@example.com,8915708602,"024
+Chana Zila",Loni,Odisha,East,792764,CUST014532,Bronze,Active,2026-07-16
+Patrick,Koshy,Male,bhanumati32@example.org,01933085831,"21/60
+Garde Street",Rohtak,Karnataka,South,686472,CUST017934,Silver,Active,2026-07-16
+Maanas,Vora,Male,suraindali@example.com,00727309992,"74/82, Kumar Path",Burhanpur,Andhra Pradesh,South,116153,CUST033609,Gold,Active,2026-07-16
+Dominic,Tank,Male,sarkarzaitra@example.org,09555434699,"21, Devan Ganj",Guna,Uttarakhand,North,247850,CUST049960,Gold,Active,2026-07-16
+Pallavi,Chakraborty,Female,nidra75@example.com,+914993671722,"52/19, Uppal Road",Bilaspur,Odisha,East,366581,CUST066599,Gold,Active,2026-07-16
+Raghav,Natarajan,Male,gwarrior@example.org,+911015771277,"56/303
+Mall Circle",Phagwara,Odisha,East,174426,CUST099090,Bronze,Active,2026-07-16
+Anthony,Kanda,Female,rajananika@example.com,6176673230,"06, Soni Street",Pudukkottai,Tamil Nadu,South,244959,CUST034452,Bronze,Active,2026-07-16
+Wriddhish,Devan,Male,yamini12@example.net,07193424695,"67/029, Rana Zila",Jalgaon,Gujarat,West,436371,CUST034081,Bronze,Inactive,2026-07-16
+Gaurika,Oak,Female,vedika01@example.org,+910068566006,"401
+Kakar",Muzaffarpur,Punjab,North,963100,CUST063588,Silver,Active,2026-07-16
+Azaan,Bobal,Female,desaianay@example.net,02297307233,"H.No. 103, Kapoor Road",Faridabad,Delhi,North,222943,CUST004294,Bronze,Active,2026-07-16
+Yuvraj,Sami,Male,damyanticomar@example.net,4961259584,"H.No. 80
+Chaudhry Nagar",Firozabad,Odisha,East,019182,CUST069103,Bronze,Active,2026-07-16
+Bachittar,Chander,Male,jackson11@example.org,0311202441,"H.No. 531
+Rao Ganj",Chittoor,Punjab,North,444158,CUST086412,Bronze,Active,2026-07-16
+Darika,Mutti,Female,csharma@example.net,01227606371,"825, Balasubramanian Ganj",Aligarh,Tamil Nadu,South,177736,CUST099477,Bronze,Active,2026-07-16
+Anvi,Dani,Female,usama@example.net,+919646745717,"13, Suresh Ganj",Saharsa,Goa,West,174752,CUST053930,Bronze,Active,2026-07-16
+Chakradhar,Goyal,Female,kseshadri@example.org,08823798783,"H.No. 401, Sandhu Street",Khora ,Haryana,North,946291,CUST087071,Bronze,Active,2026-07-16
+Ethan,Thaman,Male,lseth@example.net,+914485971995,"19, Walia Zila",Bettiah,Punjab,North,386883,CUST065084,Bronze,Active,2026-07-16
+Aachal,Sarna,Male,trivediojas@example.net,1575225923,"129
+Kannan",Kadapa,Goa,West,940056,CUST030713,Bronze,Active,2026-07-16
+Girish,D’Alia,Male,zilmil40@example.com,01309146118,"38/854
+Shroff Circle",Kozhikode,Rajasthan,West,929962,CUST049183,Bronze,Active,2026-07-16
+Gautami,Baria,Male,jthaman@example.net,07853281742,"H.No. 008
+Issac Road",Junagadh,West Bengal,East,546788,CUST057235,Bronze,Active,2026-07-16
+Deepa,Gara,Female,kmand@example.com,01680958172,"H.No. 476, Kapoor Road",Ujjain,Punjab,North,612478,CUST015664,Bronze,Active,2026-07-16
+Ria,Hayer,Male,tripathiraghav@example.com,04068114666,"H.No. 513, Sehgal Road",Asansol,Punjab,North,782773,CUST019967,Bronze,Active,2026-07-16
+Ekaja,Kale,Female,shroffnachiket@example.net,06016528695,"36/922, Saxena Circle",Raurkela Industrial Township,Haryana,North,354968,CUST091913,Bronze,Active,2026-07-16
+Chaaya,Upadhyay,Female,chaitanya15@example.org,0244100586,"H.No. 070
+Ramanathan Path",Miryalaguda,Telangana,South,895677,CUST091958,Platinum,Active,2026-07-16
+Rehaan,Chokshi,Female,schander@example.org,+914200806345,"H.No. 24, Comar Street",Indore,Rajasthan,West,693631,CUST081347,Silver,Active,2026-07-16
+Nitesh,Mohan,Female,bshan@example.com,01748325782,"H.No. 633
+Raju Path",Davanagere,Bihar,East,318617,CUST055326,Bronze,Active,2026-07-16
+Chameli,Bhasin,Male,isaiah31@example.org,+918091043654,"56, Dasgupta Ganj",Hospet,Odisha,East,926127,CUST029858,Bronze,Active,2026-07-16
+Samuel,Karnik,Female,nidhikapadia@example.net,1350555592,"02
+Dube Road",Dhanbad,Tamil Nadu,South,594455,CUST071223,Bronze,Active,2026-07-16

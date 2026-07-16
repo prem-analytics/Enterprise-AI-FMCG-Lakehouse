@@ -2,7 +2,6 @@
 Enterprise Product Master Generator
 """
 
-import time
 import random
 
 import pandas as pd
@@ -18,17 +17,12 @@ from configs.product_master import (
 )
 
 from utils.id_generator import generate_id
-from utils.file_utils import save_dataset
-from utils.validation import validate_dataset
-from utils.metadata import create_metadata
-from utils.sample_generator import create_sample
 from utils.pricing import generate_pricing
 from utils.logger import logger
+from utils.pipeline_runner import run_pipeline
 
 
 def main():
-
-    start_time = time.time()
 
     products = []
 
@@ -58,11 +52,23 @@ def main():
 
         product = {
 
+            # ==================================================
+            # IDENTIFICATION
+            # ==================================================
+
             "product_id": generate_id("PROD", i),
 
             "sku": generate_id("SKU", i),
 
-            "product_name": f"{brand} {subcategory} {package_size}{uom}",
+            # ==================================================
+            # PRODUCT DETAILS
+            # ==================================================
+
+            "product_name": (
+                f"{brand} "
+                f"{subcategory} "
+                f"{package_size}{uom}"
+            ),
 
             "brand": brand,
 
@@ -74,6 +80,10 @@ def main():
 
             "uom": uom,
 
+            # ==================================================
+            # PRICING
+            # ==================================================
+
             "cost_price": cost_price,
 
             "selling_price": selling_price,
@@ -81,6 +91,10 @@ def main():
             "margin_percent": margin,
 
             "gst_percent": gst,
+
+            # ==================================================
+            # INVENTORY
+            # ==================================================
 
             "shelf_life_months": shelf_life,
 
@@ -94,63 +108,18 @@ def main():
 
     df = pd.DataFrame(products)
 
-    logger.info("Validating dataset")
-
-    validate_dataset(
-        df,
+    run_pipeline(
+        dataframe=df,
+        folder="products",
+        filename="products",
         id_column="product_id",
         required_columns=[
             "product_id",
             "product_name",
             "brand",
             "category"
-        ]
-    )
-
-    logger.info("Saving dataset")
-
-    save_dataset(
-        dataframe=df,
-        folder="products",
-        filename="products"
-    )
-
-    logger.info("Creating metadata")
-
-    create_metadata(
-        dataframe=df,
-        folder="products",
-        filename="products"
-    )
-
-    logger.info("Creating sample dataset")
-
-    create_sample(
-        dataframe=df,
-        folder="products",
-        filename="products"
-    )
-
-    elapsed_time = time.time() - start_time
-
-    print("\n" + "=" * 60)
-    print("Enterprise Product Master Generated")
-    print("=" * 60)
-    print(f"Rows Generated : {len(df):,}")
-    print("Validation     : PASSED")
-    print("CSV File       : data/generated/products/products.csv")
-    print("Parquet File   : data/generated/products/products.parquet")
-    print("Metadata File  : data/generated/products/products_metadata.json")
-    print("Sample File    : data/sample_data/products_sample.csv")
-    print("=" * 60)
-    print(f"Execution Time : {elapsed_time:.2f} seconds")
-
-    logger.info(
-        f"Generated {len(df):,} product records successfully"
-    )
-
-    logger.info(
-        f"Execution completed in {elapsed_time:.2f} seconds"
+        ],
+        title="Enterprise Product Master Generated"
     )
 
 

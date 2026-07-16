@@ -53,3 +53,10 @@ def random_customer():
         "region": region,
         "pincode": fake.postcode(),
     }
+
+def random_name():
+    """
+    Generate a random full name.
+    """
+
+    return fake.name()
