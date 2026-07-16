@@ -1,53 +1,112 @@
-                Source Systems
+# Enterprise AI FMCG Lakehouse Architecture
 
+## Overview
+
+The Enterprise AI FMCG Lakehouse is an end-to-end enterprise data platform that simulates a real FMCG organization's data ecosystem.
+
+The project generates realistic master data and transactional data for analytics, reporting, machine learning, and forecasting.
+
+---
+
+## High Level Architecture
+
+```
 ERP
 CRM
-Inventory
 POS
-Finance
+Inventory
 Marketing
 HR
-IoT
 Supplier Portal
+IoT
+        │
+        ▼
+Raw Data
+        │
+        ▼
+Bronze Layer
+        │
+        ▼
+Silver Layer
+        │
+        ▼
+Gold Layer
+        │
+        ▼
+Analytics
+        │
+        ▼
+Power BI
+DuckDB
+ClickHouse
+Machine Learning
+Forecasting
+```
 
-          │
+---
 
-          ▼
+## Pipeline Flow
 
-     Apache Spark
+Source Systems
 
-          │
+↓
 
-          ▼
+Master Data Generation
 
-      Delta Lake
+↓
 
- Bronze
+Transaction Data Generation
 
- Silver
+↓
 
- Gold
+Validation
 
-          │
+↓
 
-          ▼
+Metadata Generation
 
-     ClickHouse
+↓
 
-          │
+CSV / Parquet
 
-          ▼
+↓
 
-        DuckDB
+Bronze
 
-          │
+↓
 
-          ▼
+Silver
 
-      AI Copilot
+↓
 
-          │
+Gold
 
-          ▼
+↓
 
- Streamlit Dashboard
+Analytics
+
+---
+
+## Technology Stack
+
+- Python
+- Pandas
+- DuckDB
+- ClickHouse
+- Apache Spark (Future)
+- Airflow (Future)
+- dbt (Future)
+- Power BI
+- Streamlit
+- Git
+- GitHub
+
+---
+
+## Design Principles
+
+- Modular
+- Reusable
+- Config Driven
+- Scalable
+- Enterprise Ready

@@ -1,31 +1,77 @@
 # Project Roadmap
 
-Phase 1
-Project Foundation
+## Phase 1
 
-Phase 2
-Enterprise Business Design
+✅ Utilities
 
-Phase 3
-Synthetic Data Generation
+✅ Validation
 
-Phase 4
-Apache Spark ETL
+✅ Metadata
 
-Phase 5
-Delta Lake
+✅ Sample Generator
 
-Phase 6
-ClickHouse Analytics
+✅ Pipeline Runner
 
-Phase 7
-DuckDB Analytics
+---
 
-Phase 8
-AI Copilot
+## Phase 2
 
-Phase 9
-Enterprise Dashboard
+✅ Customers
 
-Phase 10
-CI/CD & Deployment
+✅ Products
+
+✅ Stores
+
+✅ Suppliers
+
+✅ Warehouses
+
+✅ Factories
+
+⬜ Employees
+
+---
+
+## Phase 3
+
+Inventory
+
+Purchase Orders
+
+Production
+
+Shipments
+
+Sales
+
+Marketing
+
+---
+
+## Phase 4
+
+Bronze Layer
+
+Silver Layer
+
+Gold Layer
+
+DuckDB
+
+ClickHouse
+
+Power BI
+
+---
+
+## Phase 5
+
+Machine Learning
+
+Demand Forecasting
+
+Inventory Optimization
+
+Procurement Planning
+
+AI Dashboard

@@ -1,131 +1,93 @@
-# Enterprise FMCG Ltd
+# Business Process
 
-## Company Overview
+## Master Data
 
-Enterprise FMCG Ltd manufactures and distributes consumer packaged goods across India through factories, warehouses, distributors, retailers, and e-commerce channels.
-
-The company produces food, beverages, personal care, home care, and dairy products while using an AI-powered modern data platform for analytics, forecasting, and supply chain optimization.
-
----
-
-# Product Categories
-
-## Food
-- Biscuits
-- Noodles
-- Chocolates
-- Snacks
-- Ready to Eat
-
-## Beverages
-- Tea
-- Coffee
-- Juice
-- Soft Drinks
-
-## Personal Care
-- Soap
-- Shampoo
-- Face Wash
-- Toothpaste
-
-## Home Care
-- Detergent
-- Dish Wash
-- Floor Cleaner
-
-## Dairy
-- Milk
-- Butter
-- Cheese
-- Yogurt
-
----
-
-# Departments
-
-- Sales
-- Supply Chain
-- Manufacturing
-- Procurement
-- Finance
-- Marketing
-- Human Resources
-- Quality Control
-- Information Technology
-- Analytics & AI
-
----
-
-# Supply Chain Flow
-
-Suppliers
+Customer
 
 ↓
 
-Factories
+Store
 
 ↓
 
-Distribution Centers
+Warehouse
 
 ↓
 
-Regional Warehouses
+Supplier
 
 ↓
 
-Distributors
+Factory
 
 ↓
 
-Retail Stores
+Product
 
 ↓
 
-Customers
+Employee
 
 ---
 
-# Enterprise Data Sources
+## Procurement
 
-- ERP
-- CRM
-- Inventory System
-- POS
-- E-commerce
-- Finance
-- Marketing
-- HRMS
-- IoT Sensors
-- Supplier Portal
+Supplier
 
----
+↓
 
-# AI Use Cases
+Purchase Order
 
-- Demand Forecasting
-- Inventory Optimization
-- Sales Forecasting
-- Supplier Risk Analysis
-- Promotion Effectiveness
-- Customer Segmentation
-- Product Recommendation
-- Executive AI Copilot
-- Natural Language Analytics
-- Anomaly Detection
+↓
+
+Warehouse
 
 ---
 
-# Executive KPIs
+## Manufacturing
 
-- Revenue
-- Gross Profit
-- Net Profit
-- Inventory Value
-- Inventory Turnover
-- Stock-out Rate
-- Fill Rate
-- Forecast Accuracy
-- Supplier Performance
-- Sales Growth
+Warehouse
+
+↓
+
+Factory
+
+↓
+
+Production
+
+↓
+
+Finished Goods
+
+---
+
+## Sales
+
+Store
+
+↓
+
+Customer
+
+↓
+
+Sales
+
+↓
+
+Shipment
+
+---
+
+## Inventory
+
+Warehouse
+
+↓
+
+Inventory
+
+↓
+
+Store Replenishment
